@@ -1,0 +1,29 @@
+name: authentication
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.6
+  get: 4.6.6
+  firebase_core: 2.26.0
+  firebase_auth: 4.17.7
+  sizer: 2.0.15
+  google_fonts: 6.2.0
+  font_awesome_flutter: 10.7.0
+  google_sign_in: 6.2.1
+  flutter: 
+    sdk: flutter
+  flutter_facebook_auth: ^6.1.1
+  http: ^1.2.0
+
+dev_dependencies: 
+  flutter_lints: ^3.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+

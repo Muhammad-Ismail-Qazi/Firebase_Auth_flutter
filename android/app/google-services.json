@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722068871781",
+    "project_id": "authentication-80428",
+    "storage_bucket": "authentication-80428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722068871781:android:3ee7d046e8f04d89ef848c",
+        "android_client_info": {
+          "package_name": "com.becoder.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcr7na28V8nzanUdAm3OnpS2fL2GcB2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
